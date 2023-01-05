@@ -1,0 +1,117 @@
+h1
+{
+	margin-left: 20px;
+	font-size: 500%;
+	animation: Beispiel 7s;
+	animation-iteration-count: 1;
+	animation-direction: alternate;
+}
+
+@keyframes Beispiel
+{
+	from {color: #000000;}
+    to {color: #831c63;}
+}
+
+.Darkdancersleague
+{
+	background-image: url(Banner2.0.png);
+	background-position: center;
+	background-size:cover;
+	padding: 10%;
+	color: #831c63;
+	text-align: center;
+
+}
+
+
+body 
+{
+	background-color: #000000;
+}
+
+table
+{
+	border-color:  #dc38a3;
+	font-size: 100%;
+	text-align: center;
+}
+
+h2
+{
+	color: #621c81;
+	text-align: center;
+	font-size: 225%;
+}
+
+h3
+{
+	font-size: 250%;
+	color: #ecaabb;
+	margin-left: 20px;
+	animation: Beispiel2 7s;
+	animation-iteration-count: 1;
+	animation-direction: alternate;
+}
+@keyframes Beispiel2
+{
+	from {color: #000000;}
+    to {color: #ecaabb;}
+}
+
+.überuns
+{
+	color: #ecaabb;
+	text-align: center;
+	font-size: 150%;
+}
+
+.left
+{
+	color: #ecaabb;
+	float: left;
+	margin-left: 20%;
+	margin-right: 20%;
+	font-size: 120%;
+}
+
+#Tabelle
+{
+	font-size: 130%;
+	color: #ecaabb;
+	margin-bottom: 30%;
+	margin-top: 10%;
+}
+
+#Tabelle2
+{
+	font-size: 130%;
+	color: #ecaabb;
+	text-align: center;
+	padding-left: 20%;
+}
+
+#regeln,#bewerbung,#sonstiges
+{
+	color: #ecaabb;
+	text-align: center;
+	font-size: 150%;	
+}
+.schrift
+{
+	color: #dc38a3;
+	text-align: center;
+	font-size: 100%;
+}
+h4
+{
+	color: #dc38a3;
+	text-align: center;
+	font-size: 120%;
+}
+footer
+{
+	color: #dc38a3;
+	text-align: center;
+	font-size: 180%;	
+}
